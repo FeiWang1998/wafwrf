@@ -15,3 +15,4 @@ npm install -g npm@11.0.0
 npm i -g rivalz-node-cli
 
 screen -S znoderivalz
+rivalz run
